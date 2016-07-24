@@ -1,0 +1,30 @@
+Online Transactional and Analytics Processing using SPSS, DB2 z/OS, DB2 Analytics Accelerator 
+Near real-time data warehousing using state-of-the-art ETL tools
+Provider adherence to recommended prenatal care content: does it differ for obese women?
+The vertica analytic database: C-store 7 years later
+MonetDB/X100: Hyper-Pipelining Query Execution
+A Case for Fractured Mirrors
+Column-stores vs. row-stores: how different are they really?
+SAP HANA Database: Data Management for Modern Business Applications
+Bigtable: A Distributed Storage System for Structured Data
+HBase: The Definitive Guide Random Access to Your Planet-Size Data
+Hybrid Row-Column Stores: A General and Flexible Approach
+Query Processing Optimization using Disk-based Row-store and Column-store
+Query Optimization Strategies in Distributed Databases
+A Survey on Query Processing and Optimization in Relational Database Management System
+Column-store support for RDF data management: not all swans are white
+Efficient transaction processing in SAP HANA database: the end of a column store myth
+A common database approach for OLTP and OLAP using an in-memory column database
+An architecture for recycling intermediates in a column-store
+MonetDB: Two Decades of Research in Column-oriented Database Architectures
+Join Optimization in the MapReduce Environment for Column-wise Data Store
+Data and memory optimization techniques for embedded systems
+H-store: a high-performance, distributed main memory transaction processing system
+Query optimization using column statistics in hive
+Query optimization through the use of multi-column statistics to avoid the problems of non-indexed column correlation
+”One size fits all”: an idea whose time has come and gone
+Llama: leveraging columnar storage for scalable join processing in the MapReduce framework
+RCFile: A fast and space-efficient data placement structure in MapReduce-based warehouse sys-tems
+SW-Store: a vertically partitioned DBMS for Semantic Web data management
+Query optimization through the use of multi-column statistics to avoid the problems of column correlation
+Scalable architecture and query optimization for transaction-time DBs with evolving schemas

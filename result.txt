@@ -1,0 +1,30 @@
+online transactional analytics processing spss db2 zos db2 analytics accelerator 
+realtime data warehousing stateoftheart etl tools 
+provider adherence recommended prenatal care content differ obese women 
+vertica analytic database cstore 7 years 
+monetdbx100 hyperpipelining query execution 
+case fractured mirrors 
+columnstores rowstores 
+sap hana database data management modern business applications 
+bigtable distributed storage system structured data 
+hbase definitive guide random access planetsize data 
+hybrid rowcolumn stores general flexible approach 
+query processing optimization diskbased rowstore columnstore 
+query optimization strategies distributed databases 
+survey query processing optimization relational database management system 
+columnstore support rdf data management swans white 
+efficient transaction processing sap hana database end column store myth 
+common database approach oltp olap inmemory column database 
+architecture recycling intermediates columnstore 
+monetdb decades research columnoriented database architectures 
+join optimization mapreduce environment columnwise data store 
+data memory optimization techniques embedded systems 
+hstore highperformance distributed main memory transaction processing system 
+query optimization column statistics hive 
+query optimization multicolumn statistics avoid problems nonindexed column correlation 
+one size fits all idea time 
+llama leveraging columnar storage scalable join processing mapreduce framework 
+rcfile fast spaceefficient data placement structure mapreducebased warehouse systems 
+swstore vertically partitioned dbms semantic web data management 
+query optimization multicolumn statistics avoid problems column correlation 
+scalable architecture query optimization transactiontime dbs evolving schemas 
